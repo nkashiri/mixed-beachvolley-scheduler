@@ -1,0 +1,11 @@
+Round,Match_ID,Team_A,Team_B
+1,1,M2 + F0,M4 + F1
+1,2,M0 + F3,M1 + F2
+2,3,M0 + F4,M2 + F1
+2,4,M1 + F4,M4 + F0
+3,5,M0 + F0,M3 + F3
+3,6,M1 + F3,M2 + F4
+4,7,M1 + F1,M3 + F2
+4,8,M0 + F2,M4 + F4
+5,9,M2 + F2,M3 + F0
+5,10,M3 + F1,M4 + F3
